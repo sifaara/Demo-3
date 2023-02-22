@@ -1,0 +1,49 @@
+
+h1{background-color: #dfc4b2;}
+p{background-color:#aec5c4;
+font-size: 20px;}
+.box{
+	text-align: center;
+	width:600px;
+	height: 100px;
+	background-color: crimson;}
+	p1{font-size: 35px;
+		background-color: greenyellow;}
+
+.header{height: 100px;
+background-color: #bdb7cb;}
+
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 40%;
+	height: 150px;
+background-color: grey;}
+.contact{
+	float: right;
+	width: 50%;
+	height:150px ;
+	background-color: gold;}
+
+	.container2{overflow: hidden;}
+	.item{
+		float: left;
+		width: 30%;
+		height:100px ;}
+
+	.aqua{
+		background-color: aqua;}
+
+     .pink{
+     	background-color: pink;}
+
+     .green{
+     	background-color: green;}
+
+     .footer{
+     	height: 50px;
+     	background-color: royalblue;
+     }
+	
